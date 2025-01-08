@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/G2Tf6fYy/js-final-task.png" alt="project-screenshot" width="800" height="400/">
+<img src="https://i.postimg.cc/G2Tf6fYy/js-final-task.png" alt="project-screenshot" width="600" height="400/">
 
 <h2>🧐 Features</h2>
 
